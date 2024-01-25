@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungBeanJung&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungBeanJeong&fontSize=70&animation=twinkling)
 
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
